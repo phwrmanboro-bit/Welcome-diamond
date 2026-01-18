@@ -1,0 +1,4 @@
+name: HytaleWelcome
+version: 1.0
+main: me.hytale.welcome.Main
+api-version: 1.20
